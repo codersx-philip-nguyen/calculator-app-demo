@@ -65,7 +65,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### Link Demo
 
-This section has moved here: https://codersx-philip-nguyen.github.io/calculator-app-demo
+This section has moved here: https://phillipnguyen99.github.io/calculator-app-demo
 
 ### `npm run build` fails to minify
 
